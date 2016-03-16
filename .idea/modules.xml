@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helianto-finagle-oauth.iml" filepath="$PROJECT_DIR$/.idea/modules/helianto-finagle-oauth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helianto-finagle-oauth-build.iml" filepath="$PROJECT_DIR$/.idea/modules/helianto-finagle-oauth-build.iml" />
+    </modules>
+  </component>
+</project>
